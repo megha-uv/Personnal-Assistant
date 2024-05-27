@@ -76,21 +76,25 @@ Key functionalities include secure user authentication, routine management, prof
 ## Screenshots
 
 <div>
+    <h3>Home Page</h3>
     <img src="/images/homepage.png" alt="Home Page" width="400"/>
     <p>The main interface allows users to navigate through the application, view their routine for the day, and redirect to update their details.</p>
 </div>
 
 <div>
+    <h3>Registration Page</h3>
     <img src="/images/registration.png" alt="Registration Page" width="400"/>
     <p>This interface is used to collect the user's routine details through questions and options and store them securely in the database.</p>
 </div>
 
 <div>
+    <h3>Display Routine Page</h3>
     <img src="/images/displayroutine.png" alt="Display Routine Page" width="400"/>
     <p>This interface displays the user's routine details along with the specified time set during registration.</p>
 </div>
 
 <div>
+    <h3>Notification Page</h3>
     <img src="/images/notification.png" alt="Notification Page" width="400"/>
     <p>This interface displays reminder notifications for activities specified in the user's routine.</p>
 </div>
