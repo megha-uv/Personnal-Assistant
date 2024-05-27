@@ -48,3 +48,28 @@ Key functionalities include secure user authentication, routine management, prof
    ```bash
    git clone https://github.com/megha-uv/Personal-Assistant.git
 
+2. Open the project in your preferred Java IDE.
+
+3. Build the project to resolve any dependencies.
+
+### Running the Application
+
+1. Compile and run the homepage.java file to start the application.
+2. Use the application interfaces to register, log in, and set up your daily routine.
+3. Ensure that notifications are enabled on your system to receive timely reminders.
+
+### Usage
+
+## User Registration
+   - Open the application.
+   - Navigate to the registration page.
+   - Enter the required information and submit the form.
+   - Log in using the registered credentials.
+## Setting Up Routines
+   - After logging in, navigate to the routine setup page.
+   - Enter the activities you want to be reminded of and their respective times.
+   - Save the routine to store it in the database.
+## Receiving Notifications
+   - Ensure the application is running.
+   - When the system time matches a scheduled activity, a notification will appear reminding you to perform the activity.
+
