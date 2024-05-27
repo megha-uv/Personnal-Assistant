@@ -1,8 +1,8 @@
-# Personal-Assistant
+# Personnal-Assistant
 
 ## Overview
 
-In today's fast-paced world, young working professionals often struggle to find time for self-care amidst their busy schedules. To help address this issue, we have developed the **Personal-Assistant** application. This application is designed to assist users in maintaining a balanced and healthy lifestyle by setting reminders for their daily routines.
+In today's fast-paced world, young working professionals often struggle to find time for self-care amidst their busy schedules. To help address this issue, we have developed the **Personnal-Assistant** application. This application is designed to assist users in maintaining a balanced and healthy lifestyle by setting reminders for their daily routines.
 
 The Personal-Assistant application allows users to input their daily activities and schedules, which are then stored securely in a database. When the scheduled time for an activity arrives, the application sends a notification to remind the user to perform the activity. This ensures that important self-care activities are not overlooked, helping users to stay fit and lead a healthier life.
 
@@ -76,22 +76,22 @@ Key functionalities include secure user authentication, routine management, prof
 ## Screenshots
 
 ![Home Page](/images/homepage.png)
-*The main interface allows users to navigate through the application, view their routine for the day, and redirect to update their details.*
+The main interface allows users to navigate through the application, view their routine for the day, and redirect to update their details.
 
 ![Registration Page](/images/registration.png)
-*This interface is used to collect the user's routine details through questions and options and store them securely in the database.*
+This interface is used to collect the user's routine details through questions and options and store them securely in the database.
 
 ![Display Routine Page](/images/displayroutine.png)
-*This interface displays the user's routine details along with the specified time set during registration.*
+This interface displays the user's routine details along with the specified time set during registration.
 
 ![Notification Page](/images/notification.png)
-*This interface displays reminder notifications for activities specified in the user's routine.*
+This interface displays reminder notifications for activities specified in the user's routine.
 
 To view more output images, please check the `images` folder.
 
 ## Conclusion
 
-Thank you for exploring our Personal-Assistant application! We hope this tool will assist you in maintaining a healthier and more organized lifestyle by helping you manage your daily routines effectively. Whether it's staying on top of your fitness goals, remembering important tasks, or simply ensuring self-care amidst your busy schedule, Personal-Assistant is here to support you every step of the way.
+Thank you for exploring our Personnal-Assistant application! We hope this tool will assist you in maintaining a healthier and more organized lifestyle by helping you manage your daily routines effectively. Whether it's staying on top of your fitness goals, remembering important tasks, or simply ensuring self-care amidst your busy schedule, Personal-Assistant is here to support you every step of the way.
 
 If you have any questions, feedback, or suggestions for improvement, please don't hesitate to reach out to us. Your input is valuable to us as we continue to enhance and refine the application to better serve your needs.
 
