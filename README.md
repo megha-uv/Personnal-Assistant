@@ -99,7 +99,7 @@ Key functionalities include secure user authentication, routine management, prof
     <p>This interface displays reminder notifications for activities specified in the user's routine.</p>
 </div>
 
-To view more images, please check the `images` folder.
+To view more output images, please check the `images` folder.
 
 ## Conclusion
 
