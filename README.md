@@ -58,18 +58,45 @@ Key functionalities include secure user authentication, routine management, prof
 2. Use the application interfaces to register, log in, and set up your daily routine.
 3. Ensure that notifications are enabled on your system to receive timely reminders.
 
-### Usage
+## Usage
 
-## User Registration
+### User Registration
    - Open the application.
    - Navigate to the registration page.
    - Enter the required information and submit the form.
    - Log in using the registered credentials.
-## Setting Up Routines
+### Setting Up Routines
    - After logging in, navigate to the routine setup page.
    - Enter the activities you want to be reminded of and their respective times.
    - Save the routine to store it in the database.
-## Receiving Notifications
+### Receiving Notifications
    - Ensure the application is running.
    - When the system time matches a scheduled activity, a notification will appear reminding you to perform the activity.
+
+## Screenshots
+
+![Home Page](/images/homepage.png)
+*The main interface allows users to navigate through the application, view their routine for the day, and redirect to update their details.*
+
+![Registration Page](/images/registration.png)
+*This interface is used to collect the user's routine details through questions and options and store them securely in the database.*
+
+![Display Routine Page](/images/displayroutine.png)
+*This interface displays the user's routine details along with the specified time set during registration.*
+
+![Notification Page](/images/notification.png)
+*This interface displays reminder notifications for activities specified in the user's routine.*
+
+To view more output images, please check the `images` folder.
+
+## Conclusion
+
+Thank you for exploring our Personal-Assistant application! We hope this tool will assist you in maintaining a healthier and more organized lifestyle by helping you manage your daily routines effectively. Whether it's staying on top of your fitness goals, remembering important tasks, or simply ensuring self-care amidst your busy schedule, Personal-Assistant is here to support you every step of the way.
+
+If you have any questions, feedback, or suggestions for improvement, please don't hesitate to reach out to us. Your input is valuable to us as we continue to enhance and refine the application to better serve your needs.
+
+---
+
+
+
 
